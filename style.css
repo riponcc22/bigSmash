@@ -1,0 +1,45 @@
+body{background-color:lightblue;
+font-family:Helvetica, Arial, Sans-serif;}
+
+#container{background-color:#a8cfc9;
+width:750px;
+margin-left: auto;
+margin-right: auto;
+}
+#header{background-color:#87C5EB;
+text-align:center;
+width:750px;
+padding-bottom:5px;
+}
+
+h1,h2{text-align: center;
+color:Green;}
+
+footer{
+padding:10px;
+background-color:#4C9BC8;
+text-align:center;
+float:center;
+font-style:italic;
+font-size:10px;
+}
+
+td{width: 200;}
+
+hr{border-style:solid;
+  border-color:olive;
+  border-width:2px;
+}
+#scoreButton, #speedButton {background-color: #ffd599;                  
+  color: #0000cc;                  
+  border: 2px solid #00a3cc;                
+  width: 100px;                 
+  height: 40px;
+  margin-left: 25px;}   
+
+  #score {font-size: 30px;                 
+        color: green;
+        margin-left: 25px;}             
+  #title {font-size: 30px; color: rgb(136, 199, 60);} 
+  
+  #myCanvas{margin-left: 25px;}
